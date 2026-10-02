@@ -1,4 +1,4 @@
-# 💊 ArogyX — Healthcare Billing Fraud Detector
+<img width="1672" height="941" alt="ArogyX_Prototype_Demo_Status_NoQR" src="https://github.com/user-attachments/assets/2be0e8e9-9caa-438c-8c8e-e8d7de893299" /># 💊 ArogyX — Healthcare Billing Fraud Detector
 
 > **Detect medicine overcharging in seconds.**  
 > Upload any hospital or pharmacy bill — ArogyX compares every medicine against a database of **2,46,064 real Indian drugs** and instantly flags overcharging with exact percentages and excess amounts.
@@ -137,14 +137,14 @@ ArogyX/
 ---
 
 ## Screenshots
-
-> Upload a bill or use Manual Entry → get instant fraud analysis with charts and a downloadable report.
+<img width="1672" height="941" alt="ArogyX_Prototype_Demo_Status_NoQR" src="https://github.com/user-attachments/assets/17ab4fa3-dd9d-459d-9a5c-9d4dbdc75ed2" />
 
 ---
 
 ## License
 
-MIT
+© 2026 Government of India – Healthcare Fraud Detection Initiative
+Developed by Rupesh Ramnath Patare
 
 ---
 
