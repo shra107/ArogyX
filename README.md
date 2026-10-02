@@ -137,7 +137,7 @@ ArogyX/
 ---
 
 ## Screenshots
-<img width="1672" height="941" alt="ArogyX_Prototype_Demo_Status_NoQR" src="https://github.com/user-attachments/assets/17ab4fa3-dd9d-459d-9a5c-9d4dbdc75ed2" />
+![Uploading ArogyX_Prototype_16x9_Canva.png…]()
 
 ---
 
